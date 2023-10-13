@@ -2,6 +2,7 @@
 ## Cursos
 ### Curso de Programação com Dart
 #### Disponível em: [Deivid Willyan](https://www.youtube.com/playlist?list=PLRpTFz5_57cseSiszvssXO7HKVzOsrI77)
+#### Exercícios disponíveis em: [Exercícios](https://www.computersciencemaster.com.br/exercicios/)
 
 1. Dart Básico
    1. Variáveis e Tipos de Dados
